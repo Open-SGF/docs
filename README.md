@@ -1,4 +1,4 @@
-# Open SGF Documentation
+# Open SGF Hub
 
-A place to document how Open SGF operates, from how to run meetings to project management processes.
+A centralized space for all of Open SGF operations. Including documentation, guides and details of projects and contributors.
 
