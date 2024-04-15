@@ -1,0 +1,15 @@
+{
+  "name": "hub",
+  "version": "1.0.0",
+  "description": "A centralized space for all of Open SGF operations. Including documentation, guides and details of projects and contributors.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "prettier . --check",
+    "lint:fix": "prettier . --write"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
