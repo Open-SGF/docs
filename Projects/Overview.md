@@ -1,4 +1,3 @@
-
 ## Current Projects
 
 - [Good Dads](Projects/Good%20Dads/Overview.md)
