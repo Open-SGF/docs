@@ -67,6 +67,6 @@ Our work is only useful if it actually gets shipped! During this phase of a proj
 
 Our Code & Demo Night meetings are the first major step towards delivery of our work. It is here where we show our work to project stakeholders and receive early feedback.
 
-Every project should also strive to deploy work to some form of a staging environment. This allows other team members and project stake holders to review and test the project.
+Every project should also strive to deploy work to at minimum some form of a staging environment. This allows other team members and project stake holders to review and test the project.
 
 Once the work has been properly tested and reviewed it should then be finally delivered to production.
