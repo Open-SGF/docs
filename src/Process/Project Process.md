@@ -51,7 +51,7 @@ This is the phase where we begin building the projects. This is where design wou
 
 One part that ultimately comes up during execution is how to handle complex requirements aka Architecturally Significant Requirements. Wikipedia defines an ASR as "A requirement that has wide effect, targets trade-off points, is strict (constraining, limiting, non-negotiable), assumption breaking, or difficult to achieve"
 
-When we see one of these, it's incredibly important for the team to document it's thought process and decision for handling that requirement. The ideal format for these is an ADR (Architecture Decision Record). ADRs take many forms, but Open SGF has a preferred template to use for new projects.
+When we see one of these, it's incredibly important for the team to document it's thought process and decision for handling that requirement. The ideal format for these is an ADR (Architecture Decision Record). ADRs take many forms, but Open SGF has a [preferred ADR template](https://github.com/Open-SGF/project-template/blob/main/docs/decisions/template.md) to use. For more detail on ADRs see the overview in our [project template](https://github.com/Open-SGF/project-template/blob/main/docs/decisions/README.md).
 
 It's important that the actual decisions made in these ADRs are not made by a single person. An ADR should be rigorously reviewed and debated by the team before being accepted.
 
