@@ -1,7 +1,7 @@
 ## Current Projects
 
-- [Good Dads](<./Good Dads/index.md>)
-- [SGF Meetup API](<./SGF Meetup API/index.md>)
+- [Good Dads](<Good Dads/index.md>)
+- [SGF Meetup API](<SGF Meetup API/index.md>)
 
 ## Project Tracker
 
